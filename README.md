@@ -1,6 +1,8 @@
 # Account-Book
 금융결제원 Open Banking API를 이용한 가계부
 
+![image](main_image.png)
+
 ## ✍️ ****Summary****
 
 - **기획 의도**
