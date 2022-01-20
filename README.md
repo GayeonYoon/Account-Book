@@ -1,6 +1,6 @@
 # Account-Book
-금융결제원 Open Banking API를 이용한 가계부 
-[쌍용교육센터 - Project 3]
+## [쌍용교육센터 - Project 3] 금융결제원 Open Banking API를 이용한 가계부 ##
+
 
 
 ![image](main_image.png)
