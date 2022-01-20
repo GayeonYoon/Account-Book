@@ -1,4 +1,4 @@
-# Account-Book
+# Account-Book [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23858FB2&title_bg=%238D8585&icon=badoo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## [쌍용교육센터 - Project 3] 금융결제원 Open Banking API를 이용한 가계부 ##
 
 
